@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Net-Chat-SignalR", "ASP.Net-Chat-SignalR.csproj", "{86315505-874E-4B1E-9EC5-91DB600758F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86315505-874E-4B1E-9EC5-91DB600758F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86315505-874E-4B1E-9EC5-91DB600758F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86315505-874E-4B1E-9EC5-91DB600758F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86315505-874E-4B1E-9EC5-91DB600758F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E013FE-586C-4618-B54C-5DD66C830FAB}
+	EndGlobalSection
+EndGlobal
